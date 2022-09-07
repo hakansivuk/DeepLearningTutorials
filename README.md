@@ -2,6 +2,9 @@
 
 This repository includes simple deep learning implementations. You can see these different implementations below.
 
+## Transformer for NLP
+Transformer implementation from stracth with PyTorch for natural language processing. [Folder](https://github.com/hakansivuk/DeepLearningTutorials/blob/master/TransformerForNLP)
+
 ## Transfer Learning
 Transfer Learning tutorial with a pretrained ResNET50 and CIFAR100 dataset. [File](https://github.com/hakansivuk/DeepLearningTutorials/blob/master/TransferLearning(TrainingRESNETWithCIFAR100).ipynb)
 
