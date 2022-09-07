@@ -25,3 +25,6 @@ LSTM implementation from stracth by only using numPy. [File](https://github.com/
 
 ## GRU
 GRU implementation from stracth by only using numPy. [File](https://github.com/hakansivuk/DeepLearningTutorials/blob/master/GRU.ipynb)
+
+## NLTK Library Example
+Nltk library example. [File] (https://github.com/hakansivuk/DeepLearningTutorials/blob/master/nltk_example.py)
